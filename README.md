@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Michenstein
 - 👀 I’m interested in helping the programming world
 - 🌱 I’m currently learning on more programming languages
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me. Reach me through orjifco@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I look forward to improving everyday
